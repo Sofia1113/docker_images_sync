@@ -1,1 +1,1 @@
-
+kubesphere/ks-extensions-museum:v1.1.2
